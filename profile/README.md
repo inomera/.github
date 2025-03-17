@@ -56,19 +56,19 @@ Our **open-source repositories on GitHub** include solutions that accelerate sof
 
 ## **📂 Featured GitHub Repositories**  
 
-🔹 **[Spring Boot & Cloud Frameworks](https://github.com/inomera/spring-boot-extensions)**  
+🔹 **[Spring Boot & Cloud Frameworks]**  
 Extensions and integration solutions for Spring-based applications.  
 
-🔹 **[Hazelcast & Distributed Cache](https://github.com/inomera/hazelcast-integration)**  
+🔹 **[Hazelcast & Distributed Cache]**  
 Distributed caching strategies for high-performance data access.  
 
-🔹 **[Kafka Consumer Library](https://github.com/inomera/kafka-consumer-framework)**  
+🔹 **[Kafka Consumer Library]**  
 Highly efficient, fault-tolerant Kafka consumers with event-driven architecture.  
 
-🔹 **[API Gateway & Security](https://github.com/inomera/api-gateway-security)**  
+🔹 **[API Gateway & Security]**  
 Secure API gateways, JWT authentication, and request filtering.  
 
-🔹 **[Observability & Logging](https://github.com/inomera/observability-framework)**  
+🔹 **[Observability & Logging]**  
 Logging and metric collection solutions for enhanced system observability.  
 
 ---
