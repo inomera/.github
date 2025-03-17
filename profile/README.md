@@ -18,6 +18,8 @@ Providing high quality outsourcing services as many models.
 
 > Dedicated Team Member multi roles (Product Owner, Analyst, FE and BE Development Engineer, Test Engineer)
 
+You can see Inomera's Tech Radar -> **[tech radar](https://inomera.github.io/tech-radar/)** 🌐
+
 ---
 
 ## **🌍 Digital Transformation & Technology Leadership**  
@@ -31,7 +33,7 @@ Our **open-source repositories on GitHub** include solutions that accelerate sof
 
 ✅ **Highly Scalable Distributed Systems**  
 - Design and development of large-scale systems serving millions of users  
-- **[Hazelcast-Based Distributed Caching & Data Management] 
+- **[Hazelcast-Based Distributed Caching & Data Management]** 
 - **Flexible solutions for managing microservices-based architectures**  
 
 ✅ **Real-Time Data Streaming & Big Data Solutions**  
