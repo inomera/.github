@@ -54,6 +54,8 @@ Our **open-source repositories on GitHub** include solutions that accelerate sof
 - **[Elasticsearch, Kibana, Logstash (ELK) & OpenTelemetry Integrations]**  
 - **Distributed system debugging and telemetry solutions**  
 
+✅ **Scalable Responsive Web Development**  
+- **[React, Next.js, Angular, Node.js]**  
 ---
 
 ## **📂 Featured GitHub Repositories**  
