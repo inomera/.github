@@ -33,34 +33,34 @@ Our **open-source repositories on GitHub** include solutions that accelerate sof
 
 ✅ **Highly Scalable Distributed Systems**  
 - Design and development of large-scale systems serving millions of users  
-- **[Hazelcast-Based Distributed Caching & Data Management]** 
-- **Flexible solutions for managing microservices-based architectures**  
+- [Hazelcast-Based Distributed Caching & Data Management]
+- Flexible solutions for managing microservices-based architectures  
 
 ✅ **Real-Time Data Streaming & Big Data Solutions**  
 - Processing real-time data with Apache Kafka, and other event streaming platforms  
-- **[Kafka-Based Asynchronous Message Queue Management]**  
-- **Log analysis, data stream processing, and scalable streaming infrastructures**  
+- [Kafka-Based Asynchronous Message Queue Management, Data Stream] 
+- Log analysis, data stream processing, and scalable streaming infrastructures
 
 ✅ **Cloud & Hybrid Infrastructure Solutions**  
 - Container-based architectures using Kubernetes (Openshift, Ranger) and Docker  
-- **[Spring Boot & Kubernetes & Openshift & AWS Microservices Infrastructure]**   
+- [Spring Boot & Kubernetes & Openshift & AWS Microservices Infrastructure]   
 
 ✅ **Secure & High-Performance API Development**  
 - High-performance services using gRPC, RESTful APIs, and GraphQL  
-- **[gRPC-Based Microservices Communication]**  
-- **API security, rate limiting, and authentication solutions**  
+- [gRPC-Based Microservices Communication]
+- API security, rate limiting, and authentication solutions
 
 ✅ **Advanced Logging, Monitoring & Observability Solutions**  
-- **[Elasticsearch, Kibana, Logstash (ELK) & OpenTelemetry Integrations]**  
-- **Distributed system debugging and telemetry solutions**  
+- [Elasticsearch, Kibana, Logstash (ELK) & OpenTelemetry Integrations]  
+- Distributed system debugging and telemetry solutions  
 
 ✅ **Empowering Enterprise Frontends with Exceptional UI/UX**  
-- **User-Centered Design: Every interface prioritizes usability, accessibility, and engagement, driving user adoption and satisfaction.**
-- **Performance at Scale: Engineered for high-volume traffic, our frontend solutions maintain speed and stability under heavy loads.**
-- **Modern Tech Stack: Leveraging cutting-edge frameworks and tools to ensure maintainability and future-proofing.**
-- **Customizable & Modular: Built with flexibility in mind — easy to extend, adapt, and integrate with backend systems.**
-- **Cross-Device Consistency: Pixel-perfect designs adapted to desktop, tablet, and mobile environments without sacrificing performance or usability.**
-- **Our UI/UX team collaborates closely with development, product, and business teams to deliver impactful, large-scale frontend systems that drive results — blending visual finesse with engineering excellence.**
+- User-Centered Design: Every interface prioritizes usability, accessibility, and engagement, driving user adoption and satisfaction.
+- Performance at Scale: Engineered for high-volume traffic, our frontend solutions maintain speed and stability under heavy loads.
+- Modern Tech Stack: Leveraging cutting-edge frameworks and tools to ensure maintainability and future-proofing.
+- Customizable & Modular: Built with flexibility in mind — easy to extend, adapt, and integrate with backend systems.
+- Cross-Device Consistency: Pixel-perfect designs adapted to desktop, tablet, and mobile environments without sacrificing performance or usability.
+- Our UI/UX team collaborates closely with development, product, and business teams to deliver impactful, large-scale frontend systems that drive results — blending visual finesse with engineering excellence.
 
 ---
 
